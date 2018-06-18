@@ -1,5 +1,5 @@
 # LegalTechBookClub
-The LegalTechBookClub will serve as a decentralized source of information and discussion about various intersections of law and technology. Anyone interested in getting involved should fill out the following [GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/)
+The LegalTechBookClub will serve as a decentralized source of information and discussion about various intersections of law and technology. Anyone interested in getting involved should fill out the following [GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform)
 
 
 Note: What follows is a first attempt at a structure.
