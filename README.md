@@ -31,12 +31,16 @@ FTC, SEC, Open Data, 21st Century Ethics of Legal Profession
 
 **Technology** 
 
-**Automation** 
+* **Automation** 
 
 Artificial Intelligence, Machine Learning, Expert Systems, Chat Bots
 Programming, Digital Sentencing Guidelines, Knowledge Management
 
-**Process**
+* **Blockchain** 
+
+Cryptocurrency, Smart Contracts, Self-Sovereign Identity
+
+* **Process**
 
 Lean / Agile, Kata, Project Management, Education
 
@@ -44,9 +48,6 @@ Lean / Agile, Kata, Project Management, Education
 
 Design Thinking, UI / UX, Legal Service Delivery
 
-**Blockchain** 
-
-Cryptocurrency, Smart Contracts, Self-Sovereign Identity
 
 ## Topic Template
 
