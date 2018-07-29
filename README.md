@@ -34,7 +34,7 @@ Interested in getting involved in Legal Tech Book Club? Want to keep up with our
 ### Email
 Fill out our short Google Form and we'll keep you up to date when we announce a new book of the month and post a recap from our monthly hangout.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform?embedded=true" width="350" height="260" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Twitter
 
