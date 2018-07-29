@@ -1,9 +1,1 @@
 theme: jekyll-theme-slate
-sections:
-  - _About
-  - _Connect
-  - _Resources
-  - _Support
- 
-exclude: [README.md]
-
