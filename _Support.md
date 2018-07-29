@@ -1,3 +1,8 @@
+---
+title: Support
+layout: post
+---
+
 # Support
 
 Check out some of the offerings we host in our store on [RedBubble.com](https://www.redbubble.com/people/bryangw/collections/939124-legal-tech-book-club?asc=u). The more you buy, the more we can do!
