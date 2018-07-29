@@ -1,3 +1,8 @@
+---
+title: Resources
+layout: post
+---
+
 # Resources
 
 * [Legal Hackers](https://legalhackers.org/)
