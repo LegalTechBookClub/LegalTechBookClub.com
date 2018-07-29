@@ -1,10 +1,9 @@
 theme: jekyll-theme-slate
 sections:
- - About
- - Connect
- - Resources
- - Support
+ - _About
+ - _Connect
+ - _Resources
+ - _Support
  
- exclude:
- - README.md
+ exclude: [README.md]
 
