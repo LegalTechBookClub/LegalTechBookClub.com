@@ -3,16 +3,16 @@ The LegalTechBookClub is an attempt to create a decentralized source of informat
 
 *Unlocking the potential of legal tech through community and discussion*
 
-![image](https://user-images.githubusercontent.com/10615650/43360530-7920acd4-927c-11e8-9566-9244c5e17302.png)
+![image](https://user-images.githubusercontent.com/10615650/43371278-140cef8c-9354-11e8-9be6-2d025fe0c71b.png)
 
-## About Legal Tech Book Club
+# About Legal Tech Book Club
 
 The internet has changed the way that our society functions. Legal Tech Book Club is going to try to help understand how some of those changes are impacting the legal system.
 
 At the beginning of each month a new book will be announced. Throughout the month, anyone interested can discuss the book of the month in the issues section of our [GitHub site](https://github.com/LegalTechBookClub/LegalTechBookClub.com/issues/). At the end of the month, some assemblage of people will convene over an on-air Google Hangout and discuss the book of the month. These hangouts will be archived and added to the site.
 
 
-### August 2018
+## August 2018
 ![image](https://user-images.githubusercontent.com/10615650/43360549-c292e102-927c-11e8-81a5-5bc5f26a9282.png)
 
 **Rules for a Flat World: Why Humans Invented Law and How to Reinvent It for a Complex Global Economy**
@@ -26,3 +26,84 @@ Amazon's Summary:
 *Following a rich and sweeping overview of the long-term evolution of social rules that made complex human societies and economic interdependence possible, Hadfield makes the case for building a more agile market-based and globally-oriented legal infrastructure. Combining an impressive grasp of contemporary economic globalization with an ambitious re-envisioning of our global legal system, Rules for a Flat World will transform our understanding of how to best achieve a more sustainable and vibrant global economy."*
 
 ###### Read more about Gillian Hadfield's work on her [website](https://gillianhadfield.com/)
+
+# Connect
+
+Interested in getting involved in Legal Tech Book Club? Want to keep up with our book of the month? Connect with one of the options listed below.
+
+### Email
+Fill out our short Google Form and we'll keep you up to date when we announce a new book of the month and post a recap from our monthly hangout.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+### Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/LegalBookClub?ref_src=twsrc%5Etfw">Tweets by @LegalTechClub</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Resources
+
+### Institutions
+[Legal Hackers](https://legalhackers.org/)
+
+[Code for America](https://www.codeforamerica.org/)
+
+[Law.MIT.edu](http://law.mit.edu/)
+
+### Projects
+[LegalTechList](https://techindex.law.stanford.edu/)
+
+[Legal Services Innovation Index](https://www.legaltechinnovation.com/)
+
+[Legal Tech Conferences](http://abacenterforinnovation.org/conferences)
+
+[Computational Legal Studies](https://computationallegalstudies.com/)
+
+[CommonAccord](http://www.commonaccord.org/)
+
+### Groups
+[A2J Tech and Design Collaborative](https://www.curolegal.com/curolegal-launches-worldwide-a2j-tech-slack-team/)
+
+[Computational Law Telegram Channel](https://t.me/joinchat/BmkgEUl1cVtrasD8xWkO_w)
+
+[Diversity in Blockchain](https://diversityinblockchain.com/)
+
+[Lawyers on GitHub](https://lawyersongithub.com/)
+
+[LTRC's Women of Legal Tech](https://www.americanbar.org/groups/departments_offices/legal_technology_resources/resources/WomenofLegalTech.html)
+
+### Journals
+[Stanford Journal of Blockchain Law & Policy](https://stanford-jblp.pubpub.org/)
+
+[Harvard Journal of Law and Technology](https://jolt.law.harvard.edu/)
+
+[UCLA Journal of Law and Technology](https://uclajolt.com/)
+
+### Articles
+[Decentralized Blockchain Technology and the Rise of Lex Cryptographia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580664) by Aaron Wright and Primavera de Filippi
+
+### Slides
+[Artificial Intelligence and Law Overview](https://www.slideshare.net/HarrySurden/harry-surden-artificial-intelligence-and-law-overview) by Harry Surden
+
+[[a.i. + law] a six part primer](https://www.slideshare.net/Danielkatz/artificial-intelligence-and-law-a-primer) by Daniel Martin Katz
+
+# Support
+
+Check out some of the offerings we host in our store on [RedBubble.com](https://www.redbubble.com/people/bryangw/collections/939124-legal-tech-book-club?asc=u). The more you buy, the more we can do!
+
+## Legal Tech Book Club [Sticker](https://www.redbubble.com/people/bryangw/works/32938867-legal-tech-book-club?asc=u&c=939124-legal-tech-book-club&p=sticker&rel=carousel) $2.47
+![image](https://user-images.githubusercontent.com/10615650/43362484-c2050038-92b0-11e8-91a0-12697ad2f895.png)
+
+## Legal Tech Book Club [Unisex T-Shirt](https://www.redbubble.com/people/bryangw/works/32939024-legal-tech-book-club?asc=u&c=939124-legal-tech-book-club&p=t-shirt&rel=carousel&style=mens) $19.90
+![image](https://user-images.githubusercontent.com/10615650/43362425-54fd8d94-92af-11e8-97e3-caf9ea989468.png)
+
+## Legal Tech Book Club [Women's T-Shirt](https://www.redbubble.com/people/bryangw/works/32939024-legal-tech-book-club?asc=u&c=939124-legal-tech-book-club&p=t-shirt&rel=carousel&style=womens) $25.00
+![image](https://user-images.githubusercontent.com/10615650/43362461-30b35d14-92b0-11e8-95b8-3e235811f3b4.png)
+
+## Legal Tech Book Club [Mug](https://www.redbubble.com/people/bryangw/works/32939024-legal-tech-book-club?asc=u&c=939124-legal-tech-book-club&p=mug&rel=carousel&style=standard) $15.60
+![image](https://user-images.githubusercontent.com/10615650/43362437-c6cc5446-92af-11e8-877d-4f1a7f9771a8.png)
+
+## Legal Tech Book Club [Travel Mug](https://www.redbubble.com/people/bryangw/works/32939024-legal-tech-book-club?asc=u&c=939124-legal-tech-book-club&p=travel-mug&rel=carousel) $25.80
+![image](https://user-images.githubusercontent.com/10615650/43362445-e7a6ce58-92af-11e8-9898-6ce7e8e66b77.png)
+
+
+
