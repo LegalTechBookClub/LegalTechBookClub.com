@@ -1,5 +1,5 @@
 ---
-title: Support
+title: _Support.md
 layout: post
 ---
 
