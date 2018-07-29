@@ -5,5 +5,5 @@ sections:
  - _Resources.md
  - _Support.md
  
- exclude: [README.md]
+exclude: [README.md]
 
