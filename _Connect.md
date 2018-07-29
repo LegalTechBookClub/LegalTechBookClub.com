@@ -1,5 +1,5 @@
 ---
-title: _Layout.md
+title: _Connect.md
 layout: post
 ---
 
