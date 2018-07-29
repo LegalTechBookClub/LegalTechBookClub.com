@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: _Resources.md
 layout: post
 ---
 
