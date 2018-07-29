@@ -1,3 +1,8 @@
+---
+title: _Layout.md
+layout: post
+---
+
 # Connect
 
 Interested in getting involved in Legal Tech Book Club? Want to keep up with our book of the month? Connect with one of the options listed below.
