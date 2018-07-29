@@ -1,3 +1,8 @@
+---
+title: _About.md
+layout: post
+---
+
 *Unlocking the potential of legal tech through community and discussion*
 
 ![image](https://user-images.githubusercontent.com/10615650/43360530-7920acd4-927c-11e8-9566-9244c5e17302.png)
