@@ -1,6 +1,7 @@
 # Resources
 
 * [Legal Hackers](https://legalhackers.org/)
+* [Code for America](https://www.codeforamerica.org/)
 * [Law.MIT.edu](http://law.mit.edu/)
 * [LegalTechList](https://techindex.law.stanford.edu/)
 * [Legal Services Innovation Index](https://www.legaltechinnovation.com/)
