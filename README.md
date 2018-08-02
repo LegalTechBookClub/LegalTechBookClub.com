@@ -42,6 +42,12 @@ Fill out our short Google Form and we'll keep you up to date when we announce a 
 
 # Resources
 
+![image](https://user-images.githubusercontent.com/10615650/43557468-5c0dcb12-95ca-11e8-8d14-4013918969a5.png)
+
+[LegalTech Graveyard](https://github.com/LegalTechBookClub/Graveyard)
+
+[The ABA Center for Innovation's Clearinghouse for Innovation](http://abacenterforinnovation.org/resources/innovators/innovation-clearinghouse-intake-form)
+
 ### Institutions
 [Legal Hackers](https://legalhackers.org/)
 
@@ -76,10 +82,18 @@ Fill out our short Google Form and we'll keep you up to date when we announce a 
 
 [Harvard Journal of Law and Technology](https://jolt.law.harvard.edu/)
 
+[Berkely Technology Law Journal](http://btlj.org/)
+
 [UCLA Journal of Law and Technology](https://uclajolt.com/)
 
 ### Articles
 [Decentralized Blockchain Technology and the Rise of Lex Cryptographia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2580664) by Aaron Wright and Primavera de Filippi
+
+[Wise Contracts: Smart Contracts that Work for People and Machines](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925871) by James Hazard and Helen Haapio
+
+[Legal Tech: The AI Generation](https://medium.com/@Legal.io/the-legal-ai-generation-df29649c4a46) by Pieter Gunst
+
+[Artificial Intelligence Policy: A Primer and Roadmap](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3015350) by Ryan Calo
 
 ### Slides
 [Artificial Intelligence and Law Overview](https://www.slideshare.net/HarrySurden/harry-surden-artificial-intelligence-and-law-overview) by Harry Surden
