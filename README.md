@@ -1,17 +1,19 @@
 # LegalTechBookClub
-The LegalTechBookClub is an attempt to create a decentralized source of information and discussion about various intersections of law and technology. Anyone interested in getting involved should fill out the following [GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform)
 
 *Unlocking the potential of legal tech through community and discussion*
 
+### **For the Month of August we will be reading rules for a flatworld by Gillian Hadfield.**
+Approximate date of our first Google Hangout is August 24th.
+
+(https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform)
+
 ![image](https://user-images.githubusercontent.com/10615650/43371278-140cef8c-9354-11e8-9be6-2d025fe0c71b.png)
 
-# About Legal Tech Book Club
-
-The internet has changed the way that our society functions. Legal Tech Book Club is going to try to help understand how some of those changes are impacting the legal system.
+The internet has changed the way that our society functions. The LegalTechBookClub is an attempt to create a decentralized source of information and discussion about various intersections of law and technology. Anyone interested in getting involved should fill out the following [GoogleForm]
 
 At the beginning of each month a new book will be announced. Throughout the month, anyone interested can discuss the book of the month in the issues section of our [GitHub site](https://github.com/LegalTechBookClub/LegalTechBookClub.com/issues/). At the end of the month, some assemblage of people will convene over an on-air Google Hangout and discuss the book of the month. These hangouts will be archived and added to the site.
 
-
+# Books
 ## August 2018
 ![image](https://user-images.githubusercontent.com/10615650/43360549-c292e102-927c-11e8-81a5-5bc5f26a9282.png)
 
