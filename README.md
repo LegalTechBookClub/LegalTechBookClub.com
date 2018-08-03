@@ -48,6 +48,8 @@ Fill out our short Google Form and we'll keep you up to date when we announce a 
 
 [The ABA Center for Innovation's Clearinghouse for Innovation](http://abacenterforinnovation.org/resources/innovators/innovation-clearinghouse-intake-form)
 
+[Berkman-Klein Digital Literacy Resource Platform](https://dlrp.berkman.harvard.edu/)
+
 ### Institutions
 [Legal Hackers](https://legalhackers.org/)
 
