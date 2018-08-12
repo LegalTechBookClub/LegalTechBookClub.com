@@ -2,7 +2,7 @@
 
 *Unlocking the potential of legal tech through community and discussion*
 
-**For the Month of August we will be reading rules for a flatworld by Gillian Hadfield.**
+**For the Month of September we will be reading rules for a flatworld by Gillian Hadfield.**
 Approximate date of our first Google Hangout is August 24th.
 
 ![image](https://user-images.githubusercontent.com/10615650/43371278-140cef8c-9354-11e8-9be6-2d025fe0c71b.png)
@@ -12,7 +12,7 @@ The internet has changed the way that our society functions. The LegalTechBookCl
 At the beginning of each month a new book will be announced. Throughout the month, anyone interested can discuss the book of the month in the issues section of our [GitHub site](https://github.com/LegalTechBookClub/LegalTechBookClub.com/issues/). At the end of the month, some assemblage of people will convene over an on-air Google Hangout and discuss the book of the month. These hangouts will be archived and added to the site.
 
 # Books
-## August 2018
+## September 2018
 ![image](https://user-images.githubusercontent.com/10615650/43360549-c292e102-927c-11e8-81a5-5bc5f26a9282.png)
 
 **Rules for a Flat World: Why Humans Invented Law and How to Reinvent It for a Complex Global Economy**
