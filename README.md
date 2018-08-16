@@ -44,6 +44,8 @@ Fill out our short Google Form and we'll keep you up to date when we announce a 
 
 # Resources
 
+Our resources list is completely open-sourced. Please make a pull request to add anything to the list that you see fit!
+
 ![image](https://user-images.githubusercontent.com/10615650/43557468-5c0dcb12-95ca-11e8-8d14-4013918969a5.png)
 
 [LegalTech Graveyard](https://github.com/LegalTechBookClub/Graveyard)
