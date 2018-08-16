@@ -11,6 +11,8 @@ The internet has changed the way that our society functions. The LegalTechBookCl
 
 At the beginning of each month a new book will be announced. Throughout the month, anyone interested can discuss the book of the month in the issues section of our [GitHub site](https://github.com/LegalTechBookClub/LegalTechBookClub.com/issues/). At the end of the month, some assemblage of people will convene over an on-air Google Hangout and discuss the book of the month. These hangouts will be archived and added to the site.
 
+For more on the ideas and origins behind Legal Tech Book Club, check out the following Medium article: [Teaching the Legal System to Fail Better](https://medium.com/@bgw4g5/teaching-the-legal-system-to-fail-better-a31b7f117c74).
+
 # Books
 ## September 2018
 ![image](https://user-images.githubusercontent.com/10615650/43360549-c292e102-927c-11e8-81a5-5bc5f26a9282.png)
