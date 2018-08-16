@@ -108,7 +108,7 @@ Our resources list is completely open-sourced. Please make a pull request to add
 
 # Support
 
-Check out some of the offerings we host in our store on [RedBubble.com](https://www.redbubble.com/people/bryangw/collections/939124-legal-tech-book-club?asc=u). The more you buy, the more we can do!
+Check out some of the offerings we host in our store on [RedBubble.com](https://www.redbubble.com/people/bryangw/collections/939124-legal-tech-book-club?asc=u). All proceeds will be put directly back into Legal Hackers. The more you buy, the more we can do!
 
 ### Apparel
 
