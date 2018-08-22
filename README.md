@@ -54,6 +54,8 @@ Our resources list is completely open-sourced. Please make a pull request to add
 
 [Berkman-Klein Digital Literacy Resource Platform](https://dlrp.berkman.harvard.edu/)
 
+[Justice Tech Catalog](https://justicetech.info/)
+
 ### Institutions
 [Legal Hackers](https://legalhackers.org/)
 
