@@ -3,7 +3,7 @@
 *Unlocking the potential of legal tech through community and discussion*
 
 **For the Month of September we will be reading rules for a flatworld by Gillian Hadfield.**
-Approximate date of our first Google Hangout is August 24th.
+Approximate date of our first Google Hangout is October 1.
 
 ![image](https://user-images.githubusercontent.com/10615650/43371278-140cef8c-9354-11e8-9be6-2d025fe0c71b.png)
 
