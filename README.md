@@ -1,24 +1,16 @@
 # LegalTechBookClub
 
-*Unlocking the potential of legal tech through community and discussion*
-
-**For the Month of September we will be reading rules for a flatworld by Gillian Hadfield.**
-Approximate date of our first Google Hangout is October 1.
-
 ![image](https://user-images.githubusercontent.com/10615650/43371278-140cef8c-9354-11e8-9be6-2d025fe0c71b.png)
 
-The internet has changed the way that our society functions. The LegalTechBookClub is an attempt to create a decentralized source of information and discussion about various intersections of law and technology. Anyone interested in getting involved should fill out the following [GoogleForm](https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform)
+*Unlocking the potential of legal tech through community and discussion*
 
-At the beginning of each month a new book will be announced. Throughout the month, anyone interested can discuss the book of the month in the issues section of our [GitHub site](https://github.com/LegalTechBookClub/LegalTechBookClub.com/issues/). At the end of the month, some assemblage of people will convene over an on-air Google Hangout and discuss the book of the month. These hangouts will be archived and added to the site.
+To get involved, read the book and fill out that month's Google Form. At the end of the reading period, I will schedule a hangout, interview, or discussion with one to many people and we can talk about the book, the feedback from the book, and introduce next month's book.
 
-For more on the ideas and origins behind Legal Tech Book Club, check out the following Medium article: [Teaching the Legal System to Fail Better](https://medium.com/@bgw4g5/teaching-the-legal-system-to-fail-better-a31b7f117c74).
+**For our first month we will be reading...**
 
-# Books
-## September 2018
 ![image](https://user-images.githubusercontent.com/10615650/43360549-c292e102-927c-11e8-81a5-5bc5f26a9282.png)
 
 **Rules for a Flat World: Why Humans Invented Law and How to Reinvent It for a Complex Global Economy**
-
 
 Amazon's Summary:
 *"The ground is shifting beneath our feet. Technology and globalization continue to uproot and reshape daily life and economics. Global supply chains are growing more deeply embedded in every region of the world. Digital platforms connect billions around the planet in ever more complex networks of data and exchange. In 2005, Thomas Friedman reduced these phenomena to one phrase, the title of his massively successful book: The World is Flat.*
@@ -27,20 +19,25 @@ Amazon's Summary:
 
 *Following a rich and sweeping overview of the long-term evolution of social rules that made complex human societies and economic interdependence possible, Hadfield makes the case for building a more agile market-based and globally-oriented legal infrastructure. Combining an impressive grasp of contemporary economic globalization with an ambitious re-envisioning of our global legal system, Rules for a Flat World will transform our understanding of how to best achieve a more sustainable and vibrant global economy."*
 
+To join in on the discussion of this book, fill out our Google Form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4wLsgb5BeAWADe4xMCS24rieuVS4BImFMp_EYHLNxOIda3A/viewform?embedded=true" width="640" height="1713" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 ###### Read more about Gillian Hadfield's work on her [website](https://gillianhadfield.com/)
 
 # Connect
 
 Interested in getting involved in Legal Tech Book Club? Want to keep up with our book of the month? Connect with one of the options listed below.
 
+For more on the ideas and origins behind Legal Tech Book Club, check out the following Medium article: [Teaching the Legal System to Fail Better](https://medium.com/@bgw4g5/teaching-the-legal-system-to-fail-better-a31b7f117c74).
+
 ### Email
 Fill out our short Google Form and we'll keep you up to date when we announce a new book of the month and post a recap from our monthly hangout.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform?embedded=true" width="350" height="260" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVA08U0dKi7Y-TerArJi71SAYFMowTGL97XcQK5BgU0opjCg/viewform?embedded=true" width="640" height="1117" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Twitter
 
-<a class="twitter-timeline" href="https://twitter.com/LegalBookClub?ref_src=twsrc%5Etfw">Tweets by @LegalTechClub</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Tweet us @LegalBookClub or use the hashtag #LegalTechBookClub to have discussion with people you've never met before.
 
 # Resources
 
